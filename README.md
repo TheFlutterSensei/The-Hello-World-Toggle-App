@@ -35,7 +35,3 @@ The app will launch on your emulator or connected device.
 ### **Full Learning Path & Tutorials**
 
 [https://fluttersensei.com](https://fluttersensei.com)
-
-### **Complete Step-By-Step Class on Skillshare**
-
-[Skillshare Class](https://skl.sh/47qbshh)
