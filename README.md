@@ -1,37 +1,19 @@
-# **Hello World Toggle App**
+### Flutter Hello Toggle App
 
-A simple Flutter application that toggles between “Hello” and “World” when a button is pressed.
-This project is designed for complete beginners who want to understand how widgets, state updates, and UI rebuilding work in Flutter.
+Build your first interactive Flutter app.
+Learn Flutter state with a simple Hello toggle example.
+Beginner-friendly and easy to follow.
 
----
+Steps to use the app
+1. Run `flutter pub get`
+2. Run `flutter run`
+3. Tap the button to toggle the Hello text
+4. Watch the UI update instantly
 
-## **How to Download and Use**
+### Start Your Flutter Journey
 
-### **1. Clone this repository**
+This mini class is designed for beginners.
+Understand StatefulWidget and setState without confusion.
+Get your first Flutter win in minutes.
 
-```bash
-git clone https://github.com/TheFlutterSensei/The-Hello-World-Toggle-App.git
-cd The-Hello-World-Toggle-App
-```
-
-### **2. Install dependencies**
-
-```bash
-flutter pub get
-```
-
-### **3. Run the app**
-
-```bash
-flutter run
-```
-
-The app will launch on your emulator or connected device.
-
----
-
-## **Where to Learn?**
-
-### **Full Learning Path & Tutorials**
-
-[https://fluttersensei.com](https://fluttersensei.com)
+https://courses.fluttersensei.com/l/flutter-hello-toggle
