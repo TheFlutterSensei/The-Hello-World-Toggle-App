@@ -48,13 +48,13 @@ class _HomeScreenState extends State<HomeScreen> {
           mainAxisSize: MainAxisSize.min,
           children: [
             Text(
-              _isHello ? 'Hello Flutter!' : 'You Clicked the Button!',
+              _isHello ? 'Hello World!' : 'Bye World!',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
-            SizedBox(height: 24),
+            const SizedBox(height: 24),
             ElevatedButton(
               onPressed: _toggleHello,
-              child: Text(_isHello ? 'Change Text' : 'Change Back'),
+              child: const Text('Toggle'),
             ),
           ],
         ),
