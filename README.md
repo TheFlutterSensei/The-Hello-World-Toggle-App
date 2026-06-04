@@ -16,4 +16,4 @@ This mini class is designed for beginners.
 Understand StatefulWidget and setState without confusion.
 Get your first Flutter win in minutes.
 
-https://courses.fluttersensei.com/l/flutter-hello-toggle
+https://fluttersensei.com/
